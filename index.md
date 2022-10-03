@@ -18,7 +18,7 @@ My favorite Youtube video is [this.](https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [Here is the wiki on my favorite TV series.](https://en.wikipedia.org/wiki/Doctor_Who)
 
-###Here is a cool photo of my favorite type of dog (Samoyed).
+### Here is a cool photo of my favorite type of dog (Samoyed).
 
 ![Here is a cool photo of my favorite type of dog (Samoyed)](https://www.akc.org/wp-content/uploads/2017/11/Samoyed-standing-in-the-forest.jpg)
 
