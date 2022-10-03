@@ -5,7 +5,7 @@
 *I am a 4th year comp sci major*
 
 I enjoy designing video games and stick to the motto
->A delayed game will eventuall be good, but a rushed game will always be bad
+>A delayed game will eventually be good, but a rushed game will always be bad
 
 #### My favorite games are 
 ```
